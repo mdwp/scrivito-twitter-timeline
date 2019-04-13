@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdwp/scrivito-timeline.git"
+    "url": "git+https://github.com/mdwp/scrivito-twitter-timeline.git"
   },
   "keywords": [
     "scrivito",
@@ -21,9 +21,9 @@
   "author": "mdwp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mdwp/scrivito-timeline/issues"
+    "url": "https://github.com/mdwp/scrivito-twitter-timeline/issues"
   },
-  "homepage": "https://github.com/mdwp/scrivito-timeline#readme",
+  "homepage": "https://github.com/mdwp/scrivito-twitter-timeline#readme",
   "dependencies": {
     "react-twitter-embed": "2.0.7"
   },
