@@ -7,7 +7,7 @@ Scrivito.provideEditingConfig('TwitterTimelineWidget', {
 
         twitter: {
             title: 'Twitter Name',
-
+            description: 'Name on Twitter e.g. "scrivito" '
         },
     },
     properties: [
